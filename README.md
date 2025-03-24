@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Dyandra and I'm interested in all things web development related. I mostly deal with javascript centered frameworks but I'm always open to learning new tech stacks!
+
+- 🔭 The most recent project i worked on is [LeadRevma](https://leadrevma.com), a CRM app developed for an insurance brokers company.
+- 🌱 I’m currently learning GoLang
+- 📫 How to reach me: [dyandramaheswari@outlook.com](dyandramaheswari@outlook.com) 
 <!--
 **Dyandraamw/dyandraamw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
